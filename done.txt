@@ -58,4 +58,3 @@
 done.txt
 README.md
 script.py
-TEMP.txt
