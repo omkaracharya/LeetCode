@@ -1,5 +1,6 @@
 100_Same_Tree.cpp
 104_Maximum_Depth_Of_Binary_Tree.cpp
+108_Convert_Sorted_Array_To_Binary_Search_Tree.cpp
 121_Best_Time_To_Buy_And_Sell_Stock.cpp
 122_Best_Time_To_Buy_And_Sell_Stock_II.cpp
 136_Single_Number.cpp
@@ -22,8 +23,10 @@
 387_First_Unique_Character_In_A_String.cpp
 389_Find_The_Difference.cpp
 404_Sum_Of_Left_Leaves.cpp
+405_Convert_A_Number_To_Hexadecimal.cpp
 409_Longest_Palindrome.cpp
 412_Fizz_Buzz.cpp
+415_Add_Strings.cpp
 447_Number_Of_Boomerangs.cpp
 448_Find_All_Numbers_Disappeared_In_An_Array.cpp
 453_Minimum_Moves_To_Equal_Array_Elements.cpp
@@ -40,6 +43,8 @@
 521_Longest_Uncommon_Subsequence.cpp
 530_Minimum_Absolute_Difference_In_BST.cpp
 541_Reverse_String_II.cpp
+543_Diameter_Of_Binary_Tree.cpp
+551_Student_Attendance_Record_I.cpp
 557_Reverse_Words_in_a_String_III.cpp
 561_Array_Partition.cpp
 563_Binary_Tree_Tilt.cpp
