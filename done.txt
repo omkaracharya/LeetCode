@@ -19,6 +19,7 @@
 344_Reverse_String.cpp
 349_Intersection_Of_Two_Arrays.cpp
 350_Intersection_Of_Two_Arrays_II.cpp
+367_Valid_Perfect_Square.cpp
 383_Ransom_Note.cpp
 387_First_Unique_Character_In_A_String.cpp
 389_Find_The_Difference.cpp
@@ -55,6 +56,8 @@
 606_Construct_String_From_Binary_Tree.cpp
 617_Merge_Two_Binary_Trees.cpp
 628_Maximum_Product_Of_Three_Numbers.cpp
+633_Sum_Of_Square_Numbers.cpp
+643_Maximum_Average_Subarray_I.cpp
 done.txt
 README.md
 script.py
