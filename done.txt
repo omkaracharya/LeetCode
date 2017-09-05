@@ -26,6 +26,7 @@
 179_Largest_Number.cpp
 19_Remove_Nth_Node_From_End_Of_List.cpp
 1_Two_Sum.cpp
+200_Number_Of_Islands.cpp
 203_Remove_Linked_List_Elements.cpp
 206_Reverse_Linked_List.cpp
 20_Valid_Parentheses.cpp
@@ -42,9 +43,11 @@
 258_Add_Digits.cpp
 268_Missing_Number.cpp
 26_Remove_Duplicates_From_Sorted_Array.cpp
+279_Perfect_Squares.cpp
 27_Remove_Element.cpp
 283_Move_Zeros.cpp
 292_Nim_Game.cpp
+29_Divide_Two_Integers.cpp
 2_Add_Two_Numbers.cpp
 328_Odd_Even_Linked_List.cpp
 344_Reverse_String.cpp
@@ -74,6 +77,7 @@
 492_Construct_The_Rectangle.cpp
 496_Next_Greater_Element_I.cpp
 500_Keyboard_Row.cpp
+501_Find_Mode_In_Binary_Search_Tree.cpp
 506_Relative_Ranks.cpp
 516_Longest_Palindromic_Subsequence.cpp
 520_Detect_Capital.cpp
@@ -87,6 +91,7 @@
 561_Array_Partition.cpp
 563_Binary_Tree_Tilt.cpp
 566_Reshape_The_Matrix.cpp
+572_Subtree_Of_Another_Tree.cpp
 575_Distribute_Candies.py
 581_Shortest_Unsorted_Continuous_Subarray.cpp
 598_Range_Addition_II.cpp
@@ -101,6 +106,8 @@
 643_Maximum_Average_Subarray_I.cpp
 657_Judge_Route_Cycle.cpp
 658_Find_K_Closest_Elements.cpp
+669_Trim_A_Binary_Search_Tree.cpp
+671_Second_Minimum_Node_In_A_Binary_Tree.cpp
 6_ZigZag_Conversion.cpp
 70_Climbing_Stairs.cpp
 7_Reverse_Integer.cpp
