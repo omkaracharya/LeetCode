@@ -72,6 +72,7 @@
 415_Add_Strings.cpp
 437_Path_Sum_III.cpp
 438_Find_All_Anagrams_In_A_String.cpp
+442_Find_All_Duplicates_In_An_Array.cpp
 447_Number_Of_Boomerangs.cpp
 448_Find_All_Numbers_Disappeared_In_An_Array.cpp
 453_Minimum_Moves_To_Equal_Array_Elements.cpp
@@ -97,6 +98,7 @@
 53_Maximum_Subarray.cpp
 541_Reverse_String_II.cpp
 543_Diameter_Of_Binary_Tree.cpp
+54_Spiral_Matrix.cpp
 551_Student_Attendance_Record_I.cpp
 557_Reverse_Words_in_a_String_III.cpp
 561_Array_Partition.cpp
@@ -118,6 +120,7 @@
 637_Average_Of_Levels_In_Binary_Tree.cpp
 643_Maximum_Average_Subarray_I.cpp
 653_Two_Sum_IV_Input_Is_A_BST.cpp
+654_Maximum_Binary_Tree.cpp
 657_Judge_Route_Cycle.cpp
 658_Find_K_Closest_Elements.cpp
 665_Non-decreasing_Array.cpp
